@@ -1,5 +1,6 @@
 package homework3;
 
+/*
 public class Runner {
     public static void main(String[] args) {
         //В этом дз уже будет проверятся наличие корректных модификаторов доступа
@@ -68,7 +69,7 @@ public class Runner {
     /**
      * Для продвинутых
      */
-    public static void ex4() {
+    //public static void ex4() {
         //Зада: Иммутабельный город.
         //
         //Создать класс House (наименование улицы, номер дома) - создать сеттеры! и геттеры на него.
@@ -91,6 +92,9 @@ public class Runner {
         //-- House{street: Kotova, house: 1}
         //System.out.println(city);
         //-- City{House{street: Lenina, house: 1}}
-
+/*
     }
 }
+*\
+
+ */

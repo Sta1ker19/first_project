@@ -1,3 +1,4 @@
+/*
 package homework3;
 
 public class Pyramid3 extends Pyramid2 {
@@ -6,3 +7,6 @@ public class Pyramid3 extends Pyramid2 {
         super.print("MMM");
     }
 }
+
+
+ */

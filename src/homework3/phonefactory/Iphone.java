@@ -6,7 +6,7 @@ public class Iphone {
     Camera cameraIphone = new Camera();
     Case caseIphone = new Case();
 
-    Camera.takePhoto();
+    //Camera.takePhoto();
 
     public void printIphoneProcessorInfo(){
         System.out.println("Информация о процессорах: " + "\nПроцессор 1: " + processorIphone1.getMhz() + " Mhz"

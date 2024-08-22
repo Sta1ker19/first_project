@@ -5,7 +5,7 @@ public class Samsung {
     Camera cameraSamsung = new Camera();
     Case caseSamsung = new Case();
 
-    Camera.takePhoto();
+    //Camera.takePhoto();
 
     public Samsung(Processor processorSamsung, Camera cameraSamsung, Case caseSamsung) {
         this.processorSamsung = processorSamsung;
